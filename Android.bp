@@ -190,7 +190,6 @@ cc_defaults {
         "libfec",
         "libziparchive",
         "libprocessgroup",
-        "libselinux",
     ],
 }
 
